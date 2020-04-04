@@ -1,8 +1,11 @@
 # figma_dunkin
 
 Carrie Hinson
+
 Susan Dunaway
+
 3/29/2020
+
 https://github.com/carhin6514/figma_dunkin
 
 Susan reviewed my Figma and liked that I kept the colors the same of the company I chose. Pink and orange are signature colors for Dunkin and I didn’t think changing those would adequately portray the company’s brand. For the most part, the layout of the original design was good it was just that I thought they should focus more on their products than on their perk reward program.
